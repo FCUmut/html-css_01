@@ -1,2 +1,2 @@
 # html-css_01
- html css learning html part
+ HTML & CSS learning - HTML part.
